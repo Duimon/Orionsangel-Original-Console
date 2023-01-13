@@ -1,0 +1,9 @@
+// CRT SHADER PARAMETERS :: STD
+// Parameters specific to the CRT shader.
+// These are not intended for Mega Bezel community presets, but for Guest etc. standalone derivitives.
+// Mega Bezel community presets will require an external refernce.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+//#reference "/params/guest_custom_aperture.params"
+//#reference "/params/guest_custom_slotmask.params"

@@ -1,0 +1,14 @@
+// HSV PARAMETERS :: Colorize, Hue, Saturation, Brightness, and Gamma
+// Parameters specific to the color of the image layers. This does not include diffuse color parameters, which
+// are contained in the CRT params.
+// ----------------------------------------------------------------------------------------------------------------
+
+// BEZEL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "50.000000"
+HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
+HSM_FRM_COLOR_HUE = "0.000000"
+HSM_FRM_COLOR_SATURATION = "0.000000"
+HSM_FRM_COLOR_VALUE = "30.800000"

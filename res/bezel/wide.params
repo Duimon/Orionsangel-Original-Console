@@ -1,0 +1,19 @@
+// BEZEL PARAMETERS
+// Parameters specific to the bezel and frame. Tube Black Edge paramters are also contained here, since the corner radius 
+// is closely tied to the bezel inner corner radius.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_TUBE_BLACK_EDGE_THICKNESS = "0.000000"
+HSM_BZL_WIDTH = "100.000000"
+HSM_BZL_HEIGHT = "80.000000"
+HSM_BZL_INNER_CORNER_RADIUS_SCALE = "179.000000"
+HSM_BZL_OUTER_CORNER_RADIUS_SCALE = "25.000000"
+HSM_BZL_NOISE = "10.000000"
+HSM_FRM_TEXTURE_OPACITY = "95.000000"
+HSM_FRM_TEXTURE_BLEND_MODE = "1.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_FRM_THICKNESS = "22.000000"
+HSM_FRM_OUTER_EDGE_THICKNESS = "0.000000"
+HSM_FRM_OUTER_EDGE_SHADING = "0.000000"
+HSM_FRM_SHADOW_WIDTH = "30.000000"
